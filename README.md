@@ -1,9 +1,3 @@
-Of course. The all-lowercase version is `vehicle-motion-estimation-optical-flow`.
-
-Here is the complete `README.md` file for you to copy directly from the chat.
-
----
-
 # 🌊 Vehicle Segmentation and Motion Direction Estimation using Optical Flow
 
 **Overview**
